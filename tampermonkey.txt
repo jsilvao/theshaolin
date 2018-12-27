@@ -1,0 +1,11 @@
+// ==UserScript==
+// @name         Mexitel Script
+// @namespace    https://mexitel.sre.gob.mx/
+// @version      0.1
+// @description  try to take over the world!
+// @author       M5
+// @match        https://mexitel.sre.gob.mx/citas.webportal/pages/private/cita/registro/registroCitasPortalExtranjeros.jsf*
+// @grant        none
+// ==/UserScript==
+
+$.getScript('https://cdn.jsdelivr.net/gh/jshaolin/theshaolin@3.0/mexifu.js');
